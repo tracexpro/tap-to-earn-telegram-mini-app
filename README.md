@@ -4,7 +4,7 @@ The Tracex Tap-to-Earn is a unique Telegram mini app designed to reward users fo
 
 Key Features:
 
-1.Tap-to-Earn:
+1. Tap-to-Earn:
 Users earn tokens by simply tapping a button at regular intervals. Each tap generates a small amount of tokens, and users can increase their earnings by upgrading their tapping power.
 
 ![image](https://github.com/user-attachments/assets/d14c1818-f7d9-47bf-8d39-0c86ee9e0a1a)
