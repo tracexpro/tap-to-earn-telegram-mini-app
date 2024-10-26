@@ -29,12 +29,10 @@ Participate in airdrop campaigns by completing specific tasks such as following 
 
 ![image](https://github.com/user-attachments/assets/2e5d3efe-200c-4193-a0de-b953c3d3962e)
 
-
 6.Ranks and Rewards:
 Compete with other users on the leaderboard by tapping, completing tasks, and referring friends. The more active and engaged you are, the higher your rank. Top-ranking users receive special rewards and exclusive access to limited features.
 ![image](https://github.com/user-attachments/assets/143815ec-c99a-4497-9272-844906b85969)
 ![image](https://github.com/user-attachments/assets/04887deb-c2fe-4363-8db2-cc374cab7fb4)
-
 
 7. Tasks
 The app offers a variety of tasks that reward users for interacting with the platform and its community. These tasks help users earn additional tokens and unlock new features:
