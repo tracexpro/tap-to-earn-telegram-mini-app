@@ -34,7 +34,7 @@ Compete with other users on the leaderboard by tapping, completing tasks, and re
 ![image](https://github.com/user-attachments/assets/143815ec-c99a-4497-9272-844906b85969)
 ![image](https://github.com/user-attachments/assets/04887deb-c2fe-4363-8db2-cc374cab7fb4)
 
-7.Tasks
+7.Tasks:
 The app offers a variety of tasks that reward users for interacting with the platform and its community. These tasks help users earn additional tokens and unlock new features:
 Join Telegram Group: Join the official Telegram group to stay updated on the latest announcements and earn reward tokens.
 Subscribe to Telegram Channel: Subscribe to the app’s Telegram channel for updates and insights to receive a task completion bonus.
@@ -49,8 +49,8 @@ Track and manage a variety of assets, such as $TRACEX, USDT, TON, NOT, BNB, and 
 Swap tokens directly within the app to manage your assets effectively. This feature allows users to exchange earned tokens for other available assets, providing flexibility in asset management.
 ![image](https://github.com/user-attachments/assets/203544b0-7288-41a2-b46f-78466e8ecb72)
 
-10.Mines for Profit Boosting:
-Upgrade mining levels to increase profit per hour. Users can invest in “mines” to boost their passive earnings, which increases over time and scales with each upgrade, allowing them to compound their token growth.
+10.Mines:
+Upgrade mining cards to increase profit per hour. Users can invest in “mines” to boost their passive earnings, which increases over time and scales with each upgrade, allowing them to compound their token growth.
 ![image](https://github.com/user-attachments/assets/a65e707b-4bc0-4114-a8eb-bd5cd5b0aedf)
 
 11.Free Spins:
