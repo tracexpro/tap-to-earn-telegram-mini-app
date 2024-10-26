@@ -9,24 +9,20 @@ Users earn tokens by simply tapping a button at regular intervals. Each tap gene
 
 ![image](https://github.com/user-attachments/assets/d14c1818-f7d9-47bf-8d39-0c86ee9e0a1a)
 
-
 2.Referral System:
 Earn additional rewards by inviting friends to join the app. When referred users sign up and engage with the app, both the referrer and the invitee receive bonus tokens. This incentivizes users to grow the community.
 
 ![image](https://github.com/user-attachments/assets/10519c02-adba-4272-9479-94d7db0798b5)
-
 
 3. Boosters:
 Increase your tap earnings with boosters. Boosters are special items or bonuses that can be earned through tasks, referrals, or purchased within the app to multiply the tokens earned per tap.
 
 ![image](https://github.com/user-attachments/assets/9676892f-18c2-44db-8d29-d40fa360bd4c)
 
-
 5. Wallet Connect:
 Users can connect their crypto wallets to the app, allowing them to securely store and transfer their earned tokens. The app supports multiple wallet connections to make it easy for users to track and manage their rewards.
 
 ![image](https://github.com/user-attachments/assets/a0651a6d-5209-4edc-93cb-b5018a9a79e2)
-
 
 7. Airdrop Tasks:
 Participate in airdrop campaigns by completing specific tasks such as following social media channels, joining groups, or completing quizzes. Successful completion of tasks rewards users with exclusive tokens or NFTs.
