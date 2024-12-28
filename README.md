@@ -2,6 +2,10 @@ Tap-to-Earn Telegram Mini App: Tracex Tap-to-Earn
 
 The Tracex Tap-to-Earn is a unique Telegram mini app designed to reward users for engaging with the app through taps, referrals, and completing various tasks. The app integrates seamless wallet connectivity, airdrops, and an exciting ranking system, offering multiple ways to earn tokens or rewards. Users can boost their earnings by inviting others and increasing their tap power through referral boosters.
 
+Demo : https://t.me/tracextapbot
+
+If you're interested in this bot, feel free to contact me on Telegram: https://t.me/tracexpro
+
 Key Features:
 
 1.Tap-to-Earn:
